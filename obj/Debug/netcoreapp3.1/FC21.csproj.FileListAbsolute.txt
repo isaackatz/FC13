@@ -1,0 +1,13 @@
+D:\ProgramsBMSTU\FC13\FC13\FC13\bin\Debug\netcoreapp3.1\FC21.exe
+D:\ProgramsBMSTU\FC13\FC13\FC13\bin\Debug\netcoreapp3.1\FC21.deps.json
+D:\ProgramsBMSTU\FC13\FC13\FC13\bin\Debug\netcoreapp3.1\FC21.runtimeconfig.json
+D:\ProgramsBMSTU\FC13\FC13\FC13\bin\Debug\netcoreapp3.1\FC21.runtimeconfig.dev.json
+D:\ProgramsBMSTU\FC13\FC13\FC13\bin\Debug\netcoreapp3.1\FC21.dll
+D:\ProgramsBMSTU\FC13\FC13\FC13\bin\Debug\netcoreapp3.1\FC21.pdb
+D:\ProgramsBMSTU\FC13\FC13\FC13\obj\Debug\netcoreapp3.1\FC21.csprojAssemblyReference.cache
+D:\ProgramsBMSTU\FC13\FC13\FC13\obj\Debug\netcoreapp3.1\FC21.AssemblyInfoInputs.cache
+D:\ProgramsBMSTU\FC13\FC13\FC13\obj\Debug\netcoreapp3.1\FC21.AssemblyInfo.cs
+D:\ProgramsBMSTU\FC13\FC13\FC13\obj\Debug\netcoreapp3.1\FC21.csproj.CoreCompileInputs.cache
+D:\ProgramsBMSTU\FC13\FC13\FC13\obj\Debug\netcoreapp3.1\FC21.dll
+D:\ProgramsBMSTU\FC13\FC13\FC13\obj\Debug\netcoreapp3.1\FC21.pdb
+D:\ProgramsBMSTU\FC13\FC13\FC13\obj\Debug\netcoreapp3.1\FC21.genruntimeconfig.cache
